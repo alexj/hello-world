@@ -1,1 +1,3 @@
-First file to be committed
+This was the first file to be committed
+
+some other text
